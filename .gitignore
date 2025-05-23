@@ -8,3 +8,4 @@ mongodb-cluster/config-servers/
 mongodb-cluster/**/*.log
 mongodb-cluster/**/*.turtle
 mongodb-cluster/**/mongod.lock
+mongodb-cluster/**/journal/
