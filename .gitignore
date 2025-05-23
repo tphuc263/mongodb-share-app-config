@@ -1,0 +1,10 @@
+# Bỏ qua các thư mục
+mongodb-cluster/logs/
+mongodb-cluster/shard1/
+mongodb-cluster/shard2/
+mongodb-cluster/config-servers/
+
+# Bỏ qua các tệp cụ thể của MongoDB
+mongodb-cluster/**/*.log
+mongodb-cluster/**/*.turtle
+mongodb-cluster/**/mongod.lock
